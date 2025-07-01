@@ -1,4 +1,4 @@
-# Copy Paste Automations
+# randomAutomation - Copy Paste Automations
 
 This repo is a library of single-file Python automations. Drop any script into a directory, double-click, and let it handle a simple, focused task. No bloat. No setup. Just results.
 
@@ -53,4 +53,4 @@ Recursively finds all `.jt` files in subdirectories and moves them to the script
 ## Philosophy
 - Each script is atomic: no config, no dependencies (unless noted), no state.
 - Designed for tactical, repeatable use. Copy, run, done.
-- Add your own automations. Keep them single-file, self-contained, and bluntly effective. 
+- Add your own automations. Keep them single-file, self-contained, and bluntly effective.
